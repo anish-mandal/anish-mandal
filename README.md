@@ -33,6 +33,6 @@
 
 ## My Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anishmandal2890&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=anish-mandal&theme=blue-green)
 
-![Lang-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anishmandal2890&theme=blue-green)
+![Lang-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-mandal&theme=blue-green)
