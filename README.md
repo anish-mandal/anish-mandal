@@ -6,4 +6,4 @@
 - and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
 
 ### Operating System using
-![Ubuntu](https://www.pinclipart.com/picdir/big/28-285621_ubuntu-note-ubuntu-lts-18-04-logo-clipart.png)
+![Ubuntu](https://www.pinclipart.com/picdir/big/28-285621_ubuntu-note-ubuntu-lts-18-04-logo-clipart.png =100x100)
