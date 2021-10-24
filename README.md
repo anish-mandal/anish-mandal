@@ -32,7 +32,6 @@
 
 
 ## My Stats
-![Follow](https://img.shields.io/github/followers/anishmandal2890.svg?style=social&label=Follow&maxAge=2592000)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=anishmandal2890&theme=blue-green)
 
