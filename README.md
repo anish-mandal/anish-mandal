@@ -29,7 +29,9 @@
 
 ## Social Media
 [Twitter](https://twitter.com/AnishDeveloper)
+
 [Github](https://github.com/anish-mandal)
+
 [Linkedin](https://www.linkedin.com/in/anish-mandal-858805222/)
 
 
