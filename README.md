@@ -1,3 +1,9 @@
+<a target="_blank" href="https://anishdeveloper.me"><img height="25" width="25" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/Asset%204logo.svg"></a>
+<a target="_blank" href="https://github.com/anish-mandal"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
+<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
+
 # Hi there :wave:
 
 - My full name is Anish Mandal. 
@@ -27,11 +33,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Social Media
-<a href="https://twitter.com/AnishDeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://github.com/anish-mandal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://www.linkedin.com/in/anish-mandal-858805222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-
 ### Other Skills
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
@@ -40,5 +41,4 @@
 ## My Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=anish-mandal&theme=blue-green)
-
-![Lang-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-mandal&theme=blue-green)
+<img align="right" height="245" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-mandal&theme=blue-green">
