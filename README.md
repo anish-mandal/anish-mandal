@@ -41,4 +41,4 @@
 ## My Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=anish-mandal&theme=blue-green)
-<img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-mandal&theme=blue-green">
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-mandal&theme=blue-green">
