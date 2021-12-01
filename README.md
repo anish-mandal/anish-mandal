@@ -1,9 +1,3 @@
-<a target="_blank" href="https://anishdeveloper.me"><img height="25" width="25" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/Asset%204logo.svg"></a>
-<a target="_blank" href="https://github.com/anish-mandal"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
-<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
-<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
-<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
-
 # Hi there :wave:
 
 - My full name is Anish Mandal. 
@@ -37,6 +31,12 @@
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
+## Some Places
+<a target="_blank" href="https://anishdeveloper.me"><img height="25" width="25" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/Asset%204logo.svg"></a>
+<a target="_blank" href="https://github.com/anish-mandal"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
+<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="30" width="30" align="right" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
 
 ## My Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=anish-mandal&theme=blue-green)
