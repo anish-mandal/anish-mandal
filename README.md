@@ -32,15 +32,11 @@
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ## Some Places
-<a target="_blank" href="https://anishdeveloper.me"><img height="25" width="25" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/Asset%204logo.svg"> My Site</a>
-
-<a target="_blank" href="https://github.com/anish-mandal"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"> Github</a>
-
-<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"> Instagram</a>
-
-<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"> Twitter</a>
-
-<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"> Linkedin</a>
+<a target="_blank" href="https://anishdeveloper.me"><img height="45" width="45" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/Asset%204logo.svg"></a>
+<a target="_blank" href="https://github.com/anish-mandal"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
+<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
 
 
 ## My Stats
