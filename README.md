@@ -1,9 +1,14 @@
-# Hi there :wave:
+# Hi there <img height="30" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"> 
+<a target="_blank" href="https://github.com/anish-mandal"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
+<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
+<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
 
 - My full name is Anish Mandal. 
-- I am a 14 years old learning front-end web developer who want to dive into this ocean of tech, information, programming and understanding. 
+- I am a 14 years old learning front-end web developer based on India who want to dive into this ocean of tech, information, programming and understanding. 
 - I am currently working at [Tezucka](https://www.linkedin.com/company/76233163/) as Chief Technical Officer
 - and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
+- My website is at [anishdeveloper.me](https://anishdeveloper.me)
 
 
 ## Operating System that I can use
@@ -30,13 +35,6 @@
 ### Other Skills
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-
-## Some Places
-<a target="_blank" href="https://anishdeveloper.me"><img height="45" width="45" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/Asset%204logo.svg"></a>
-<a target="_blank" href="https://github.com/anish-mandal"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
-<a target="_blank" href="https://www.instagram.com/anishdeveloper/"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
-<a target="_blank" href="https://twitter.com/AnishDeveloper"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
-<a target="_blank" href="https://www.linkedin.com/in/anish-mandal-858805222/"><img height="50" width="50" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
 
 
 ## My Stats
