@@ -8,8 +8,7 @@
 - I am a 14 years old learning front-end web developer based on India who want to dive into this ocean of tech, information, programming and understanding. 
 - I am currently working at [Tezucka](https://tezucka.xyz) as Chief Technical Officer
 - and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
-- My website is at [anishdeveloper.me](https://anishdeveloper.me)
-
+- My website is at [anishdeveloper.me](https://anishdeveloper.me)&nbsp;&nbsp;![Website Status](https://img.shields.io/website-up-down-green-red/http/anishdeveloper.me.svg)
 
 ## Operating System that I can use
 
@@ -25,12 +24,14 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Other Skills
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
