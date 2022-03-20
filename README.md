@@ -4,10 +4,9 @@
 <a target="_blank" href="https://twitter.com/anishdeveloper"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
 <a target="_blank" href="https://www.linkedin.com/in/anishmandal/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
 
-- My full name is Anish Mandal. 
+- My full name is Anish Mandal.
 - I am a 14 years old learning developer based on India who want to dive into this ocean of tech, information, programming and understanding. 
-- I am currently working at [Tezucka](https://tezucka.xyz) as Chief Technical Officer
-- and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
+- I am currently working at [Tezucka](https://tezucka.xyz) as Chief Technical Officer and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
 - My website is at [anishdeveloper.me](https://anishdeveloper.me)&nbsp;&nbsp;![Website Status](https://img.shields.io/website-up-down-green-red/http/anishdeveloper.me.svg)
 
 ## Operating System that I can use
@@ -30,9 +29,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Other Skills
