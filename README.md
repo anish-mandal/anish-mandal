@@ -1,7 +1,7 @@
 # Hi there <img height="30" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"> 
 <a target="_blank" href="https://github.com/anish-mandal"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/GitHub-Icon-White-Logo.wine.svg"></a>
 <a target="_blank" href="https://www.instagram.com/_anish_mandal_/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Instagram-Logo.wine.svg"></a>
-<a target="_blank" href="https://twitter.com/anishdeveloper"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
+<a target="_blank" href="https://twitter.com/416e697368"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/Twitter-Logo.wine.svg"></a>
 <a target="_blank" href="https://www.linkedin.com/in/anishmandal/"><img height="30" width="30" src="https://raw.githubusercontent.com/anish-mandal/anish-mandal/8fed0bdface785e5fb35d820408a655f95358bf2/assets/LinkedIn-Icon-Logo.wine.svg"></a>
 
 - My full name is Anish Mandal.
