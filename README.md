@@ -9,15 +9,17 @@
 - I am currently working at [Tezucka](https://tezucka.xyz) as Chief Technical Officer and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
 - My website is at [anishdeveloper.me](https://anishdeveloper.me)&nbsp;&nbsp;![Website Status](https://img.shields.io/website-up-down-green-red/http/anishdeveloper.me.svg)
 
-## Operating System that I can use
+<hr />
 
+### Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows-XP](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
 ![Andriod](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<hr />
 
-## Things I know
+### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,6 +36,14 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
+<hr />
+
 ### Other Skills
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+
+<hr />
+
+Maybe this button will be useful in future 😅:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anishmandal)
