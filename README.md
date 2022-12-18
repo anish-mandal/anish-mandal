@@ -7,7 +7,7 @@
 - My full name is Anish Mandal.
 - I am a 15 years old learning developer based on India who want to dive into this ocean of tech, information, programming and understanding. 
 - I am currently working at [Tezucka](https://tezucka.xyz) as Chief Technical Officer and also collaborating with [Sagnik Chatterjee](https://github.com/sagnikchatterjee450), CEO of Tezucka.
-- My website is at [anis.ml](https://anis.ml/))&nbsp;&nbsp;![Website Status](https://img.shields.io/website-up-down-green-red/http/anis.ml.svg)
+- My website is at [anis.ml](https://anis.ml/)&nbsp;&nbsp;![Website Status](https://img.shields.io/website-up-down-green-red/http/anis.ml.svg)
 
 ### I am familiar with
 
