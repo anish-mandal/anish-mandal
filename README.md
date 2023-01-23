@@ -18,8 +18,3 @@
 > 🛠️ Tools
 
 ![](https://skillicons.dev/icons?i=nodejs,tailwind,vite,react,nextjs,netlify,mongodb,svelte,vscode,vim,ps,ai,linux,figma,deno)
-
-<details>
-  <summary>Spotify</summary>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=8yrf2ww4uoalc4rb9w3ta1i7t&cover_image=true&theme=default&show_offline=false&background_color=121212" height="200" width="200" />
-</details>
