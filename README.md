@@ -18,5 +18,3 @@
 > 🛠️ Tools
 
 ![](https://skillicons.dev/icons?i=nodejs,tailwind,vite,react,nextjs,netlify,mongodb,svelte,vscode,vim,ps,ai,linux,figma,deno)
-
-<img src="https://my-stats-production.up.railway.app/status" />
