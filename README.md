@@ -18,3 +18,8 @@
 > 🛠️ Tools
 
 ![](https://skillicons.dev/icons?i=nodejs,tailwind,vite,react,nextjs,netlify,mongodb,svelte,vscode,vim,ps,ai,linux,figma,deno)
+
+<details>
+  <summary>Spotify</summary>
+  <img src="https://my-stats-production.up.railway.app/status" height="200" width="200" />
+</details>
