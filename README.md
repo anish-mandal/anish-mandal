@@ -16,4 +16,4 @@ I am Anish Mandal, just another developer from India currently working at [Tezuc
 
 > 🛠️ Tools
 
-![](https://skillicons.dev/icons?i=nodejs,tailwind,vite,react,nextjs,netlify,mongodb,svelte,vscode,vim,ps,ai,linux,figma,deno)
+![](https://skillicons.dev/icons?i=nodejs,tailwind,vite,react,nextjs,netlify,mongodb,svelte,vscode,ps,ai,linux,figma,deno,githubactions,figma,git,github,neovim,prisma)
